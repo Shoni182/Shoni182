@@ -22,8 +22,6 @@ Fullstack developer with experience in JavaScript, React and Next.js, Node.js, E
 
 - **[nodejs-hw](https://github.com/Shoni182/nodejs-hw)** – A RESTful contacts API built with Node.js, Express, and MongoDB. Implements full CRUD operations, request validation with Celebrate/Joi, pagination, and filtering by contact type.
 
-- **[nodejs-app](https://github.com/Shoni182/nodejs-app)** – _(add short description)_. Deployed on Render.
-
 ---
 
 ## 🗣️ Languages
