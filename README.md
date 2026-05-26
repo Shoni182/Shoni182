@@ -8,7 +8,11 @@
 
 ---
 
-### 🧰 Tech Stack
+<h2 align="left">
+  🧰
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D136&width=435&lines=Tech+stack+%E2%86%98" alt="Typing SVG"/> 
+</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
@@ -22,7 +26,7 @@
 
 ---
 
-## 💻 Featured Projects
+### 💻 Featured Projects
 
 - **[Leleka](https://pregnancy-tracker-frontend.vercel.app)** — Pregnancy Monitoring Platform
   - 🛠 **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
@@ -44,14 +48,14 @@
 
 ---
 
-## 🗣️ Languages
+### 🗣️ Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-FFD700?style=flat-square)
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 
 ---
 
-## 📫 Message me
+### 📫 Message me
 
 <p align="center">
   <a href="https://t.me/Shoni_Pal">
