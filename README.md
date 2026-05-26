@@ -60,7 +60,7 @@
   <a href="https://t.me/Shoni_Pal">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://t.me/Shoni_Pal">
+    <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshoni-pal-191b337a%2F%3FskipRedirect%3Dtrue?style=for-the-badge&color=blue" alt="Linkedin">
+  </a>
 </p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoni%20Pal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoni-pal-191b337a/)
-&nbsp;|&nbsp;
