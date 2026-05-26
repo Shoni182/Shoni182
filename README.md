@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Shoni Pal
+# Hi, I'm Shoni Pal👋
 
-## About Me Junior Full-Stack Developer | React & Next.js | Node.js • Express • MongoDB • JavaScript (ES6+)
-
-Fullstack developer with experience in JavaScript, React and Next.js, Node.js, Express, and MongoDB. Experienced in building RESTful APIs, working with Mongoose ODM, and implementing request validation. Familiar with deployment on cloud platforms (Render) and version control with Git. Strong problem-solving skills and a proactive approach to developing clean, scalable server-side solutions.
+### Junior Full-Stack Developer | React & Next.js | Node.js • Express • MongoDB • JavaScript (ES6+)
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -20,7 +18,23 @@ Fullstack developer with experience in JavaScript, React and Next.js, Node.js, E
 
 ## 💻 Featured Projects
 
-- **[nodejs-hw](https://github.com/Shoni182/nodejs-hw)** – A RESTful contacts API built with Node.js, Express, and MongoDB. Implements full CRUD operations, request validation with Celebrate/Joi, pagination, and filtering by contact type.
+- **[Leleka](https://pregnancy-tracker-frontend.vercel.app)** — Pregnancy Monitoring Platform
+  - 🛠 **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
+  - 🔗 **GitHub:** [Frontend](https://github.com/Oksana-Zalivan/pregnancy-tracker-frontend) | [Backend](https://github.com/Oksana-Zalivan/pregnancy-tracker-backend)
+
+- **[RentalCar](shoni-pal-rental-car-shoni-pals-projects.vercel.app)** — Car Rental Platform
+  - 🛠 **Tech:** Next.js 16, TypeScript, React 19, React Compiler, TanStack Query, Zustand, React-Select.
+  - 🔗 [GitHub Repository](https://github.com/Shoni182/rental-car-pet-project)
+
+- **[Paw-paws]()** — Pet adoption platform
+  - 📋 **Role:** Scrum Master. Facilitated daily stand-ups, ensured Agile delivery, and maintained codebase quality.
+  - 🛠 **Tech:** Vanilla JS, Vite, Axios, Swiper, AOS, SweetAlert2.
+  - 🔗 [GitHub Repository]()
+
+- **[Coffee Shop]()** — Interactive menu application
+  - 📋 **Role:** Team Lead. Managed task distribution, coordinated Git workflows, and maintained modular architecture.
+  - 🛠 **Tech:** Vanilla JS, Vite, HTML5/CSS3.
+  - 🔗 [GitHub Repository]()
 
 ---
 
@@ -45,4 +59,3 @@ Fullstack developer with experience in JavaScript, React and Next.js, Node.js, E
 
 ![Shoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shoni182&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoni182&layout=compact&hide_border=true)
-
