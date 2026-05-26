@@ -8,6 +8,7 @@
 
 ---
 
+<div>
 <h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D136&width=435&lines=Tech+stack+%E2%86%98" alt="Typing SVG"/> 
 </h2>
@@ -20,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
+</div>
 
 ---
 
