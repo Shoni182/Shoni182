@@ -8,9 +8,8 @@
 
 ---
 
-<h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D136&width=435&lines=Tech+stack+%E2%86%98" alt="Typing SVG"/> 
-</h3>
+### Tech Stack
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TS"/>
@@ -23,9 +22,7 @@
 
 ---
 
-<h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40B3F7&width=435&lines=Featured+Projects+%E2%86%98" alt="Typing SVG"/> 
-</h3>
+### Featured Projects
 
 - **[Leleka](https://pregnancy-tracker-frontend.vercel.app)** — Pregnancy Monitoring Platform
   - 🛠 **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
@@ -47,24 +44,17 @@
 
 ---
 
-<h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40B3F7&width=435&lines=Language+%E2%86%98" alt="Typing SVG"/> 
-</h3>
+### Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-FFD700?style=flat-square)
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 
 ---
 
-<h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Message+me+%E2%86%98" alt="Typing SVG"/> 
-</h3>
+### 📫 Message me
 
 <p align="center">
   <a href="https://t.me/Shoni_Pal">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://t.me/Shoni_Pal">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshoni-pal-191b337a%2F%3FskipRedirect%3Dtrue?style=for-the-badge&color=blue" alt="Linkedin">
   </a>
 </p>
