@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Shoni! 👋
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=46F733BB&width=435&lines=Hello+User.+.+.;Scroll+down+%E2%86%93+%E2%86%93+%E2%86%93" alt="Typing SVG"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=759EFF&width=435&lines=From+idea+to+deployment.+;JS+%C2%B7+TS+%C2%B7++React+%C2%B7+Next.js+%C2%B7+Node.js" alt="Typing SVG"/> 
 </h1>
 
 ### Junior Full-Stack Developer | React & Next.js | Node.js • Express • MongoDB • JavaScript (ES6+)
@@ -25,22 +25,26 @@
 ### Featured Projects
 
 - **[Leleka](https://pregnancy-tracker-frontend.vercel.app)** — Pregnancy Monitoring Platform
-  - 🛠 **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
-  - 🔗 **GitHub:** [Frontend](https://github.com/Oksana-Zalivan/pregnancy-tracker-frontend) | [Backend](https://github.com/Oksana-Zalivan/pregnancy-tracker-backend)
+  - **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
+  - **Achivements**
+  - **GitHub:** [Frontend](https://github.com/Oksana-Zalivan/pregnancy-tracker-frontend) | [Backend](https://github.com/Oksana-Zalivan/pregnancy-tracker-backend)
 
 - **[RentalCar](shoni-pal-rental-car-shoni-pals-projects.vercel.app)** — Car Rental Platform
-  - 🛠 **Tech:** Next.js 16, TypeScript, React 19, React Compiler, TanStack Query, Zustand, React-Select.
-  - 🔗 [GitHub Repository](https://github.com/Shoni182/rental-car-pet-project)
+  - **Tech:** Next.js 16, TypeScript, React 19, React Compiler, TanStack Query, Zustand, React-Select.
+  - **Achivements**
+  - [GitHub Repository](https://github.com/Shoni182/rental-car-pet-project)
 
 - **[Paw-paws]()** — Pet adoption platform
   - 📋 **Role:** Scrum Master. Facilitated daily stand-ups, ensured Agile delivery, and maintained codebase quality.
-  - 🛠 **Tech:** Vanilla JS, Vite, Axios, Swiper, AOS, SweetAlert2.
-  - 🔗 [GitHub Repository]()
+  - **Tech:** Vanilla JS, Vite, Axios, Swiper, AOS, SweetAlert2.
+  - **Achivements**
+  - [GitHub Repository]()
 
 - **[Coffee Shop]()** — Interactive menu application
   - 📋 **Role:** Team Lead. Managed task distribution, coordinated Git workflows, and maintained modular architecture.
-  - 🛠 **Tech:** Vanilla JS, Vite, HTML5/CSS3.
-  - 🔗 [GitHub Repository]()
+  - **Achivements**
+  - **Tech:** Vanilla JS, Vite, HTML5/CSS3.
+  - [GitHub Repository]()
 
 ---
 
