@@ -24,7 +24,7 @@
 ---
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D136&width=435&lines=Featured+Projects+%E2%86%98" alt="Typing SVG"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40B3F7&width=435&lines=Featured+Projects+%E2%86%98" alt="Typing SVG"/> 
 </h3>
 
 - **[Leleka](https://pregnancy-tracker-frontend.vercel.app)** — Pregnancy Monitoring Platform
@@ -47,14 +47,18 @@
 
 ---
 
-### 🗣️ Languages
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40B3F7&width=435&lines=Language+%E2%86%98" alt="Typing SVG"/> 
+</h3>
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-FFD700?style=flat-square)
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 
 ---
 
-### 📫 Message me
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Message+me+%E2%86%98" alt="Typing SVG"/> 
+</h3>
 
 <p align="center">
   <a href="https://t.me/Shoni_Pal">
