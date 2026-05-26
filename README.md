@@ -30,7 +30,7 @@
   - **Tech:** Next.js, React 19, TypeScript, TanStack Query, Zustand, Axios, Formik, Yup, Node.js, Express, MongoDB
   - **Achievements:** Built full-stack app with JWT auth, REST API, and file upload; Lighthouse 82/95/100
 
-- **[RentalCar](https://rental-car-pet-project.vercel.app)** — Car Rental Platform
+- **[RentalCar](shoni-pal-rental-car-shoni-pals-projects.vercel.app)** — Car Rental Platform
   - **GitHub:** [GitHub Repository](https://github.com/Shoni182/rental-car-pet-project)
   - **Role:** Fullstack developer
   - **Tech:** Next.js, React 19, TypeScript, TanStack Query, Zustand, Axios, Formik, Yup
