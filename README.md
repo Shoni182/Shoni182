@@ -26,29 +26,27 @@
 
 - **[Leleka](https://pregnancy-tracker-frontend.vercel.app)** — Pregnancy Monitoring Platform
   - **GitHub:** [Frontend](https://github.com/Oksana-Zalivan/pregnancy-tracker-frontend) | [Backend](https://github.com/Oksana-Zalivan/pregnancy-tracker-backend)
-  - **Role:** Scrum Master. Facilitated daily stand-ups, ensured Agile delivery, and maintained codebase quality.
+  - **Role:** Fullstack developer, Scrum Master
+  - **Tech:** Next.js, TypeScript, TanStack Query, Zustand, Node.js, Express, MongoDB
+  - **Achievements:** Built full-stack app with JWT auth and REST API; Lighthouse 82/95/100
 
-  - **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
-  - **Achivements**
-
-- **[RentalCar](shoni-pal-rental-car-shoni-pals-projects.vercel.app)** — Car Rental Platform
+- **[RentalCar](https://shoni-pal-rental-car-shoni-pals-projects.vercel.app)** — Car Rental Platform
   - **GitHub:** [GitHub Repository](https://github.com/Shoni182/rental-car-pet-project)
-  - **Role:** Scrum Master. Facilitated daily stand-ups, ensured Agile delivery, and maintained codebase quality.
+  - **Role:** Fullstack developer
+  - **Tech:** Next.js, TypeScript, React 19, TanStack Query, Zustand
+  - **Achievements:** Integrated React Compiler for auto-memoization; Lighthouse 91/98/100
 
-  - **Tech:** Next.js 16, TypeScript, React 19, React Compiler, TanStack Query, Zustand, React-Select.
-  - **Achivements**
-
-- **[Paw-paws](https://dm1trr1y.github.io/kindcode-project/)** — Pet adoption platform
+- **[Paw-paws](https://dm1trr1y.github.io/kindcode-project/)** — Pet Adoption Platform
   - **GitHub:** [GitHub Repository](https://github.com/dm1trr1y/kindcode-project)
-  - **Role:** Scrum Master. Facilitated daily stand-ups, ensured Agile delivery, and maintained codebase quality.
-  - **Tech:** Vanilla JS, Vite, Axios, Swiper, AOS, SweetAlert2.
-  - **Achivements**
+  - **Role:** Frontend developer, Scrum Master
+  - **Tech:** Vanilla JS, Vite, Axios, Swiper
+  - **Achievements:** Delivered on deadline with team of 10; Lighthouse 88/96/100
 
-- **[Coffee Shop](https://oleksiimarushchak.github.io/project-primeiro-projeto/)** — Interactive menu application
+- **[Coffee Shop](https://oleksiimarushchak.github.io/project-primeiro-projeto/)** — Interactive Menu Application
   - **GitHub:** [GitHub Repository](https://github.com/OleksiiMarushchak/project-primeiro-projeto)
-  - **Role:** Team Lead. Managed task distribution, coordinated Git workflows, and maintained modular architecture.
-  - **Achivements**
-  - **Tech:** Vanilla JS, Vite, HTML5/CSS3.
+  - **Role:** Frontend developer, Team Lead
+  - **Tech:** Vanilla JS, Vite, HTML5, CSS3
+  - **Achievements:** Led team of 10 with Git branching strategy; Lighthouse 95/100/100
 
 ---
 
