@@ -1,4 +1,8 @@
-# Hi, I'm Shoni Pal👋
+<h1 align="center">
+  Hi, I'm Shoni! 👋
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=46F733BB&width=435&lines=Hello+User.+.+.;Scroll+down+%E2%86%93+%E2%86%93+%E2%86%93" alt="Typing SVG"/> 
+</h1>
 
 ### Junior Full-Stack Developer | React & Next.js | Node.js • Express • MongoDB • JavaScript (ES6+)
 
@@ -6,13 +10,15 @@
 
 ### 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+</p>
 
 ---
 
