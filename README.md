@@ -8,10 +8,9 @@
 
 ---
 
-<div>
-<h2 align="left">
+<h3 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D136&width=435&lines=Tech+stack+%E2%86%98" alt="Typing SVG"/> 
-</h2>
+</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TS"/>
@@ -21,11 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
-</div>
 
 ---
 
-### 💻 Featured Projects
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D136&width=435&lines=Featured+Projects+%E2%86%98" alt="Typing SVG"/> 
+</h3>
 
 - **[Leleka](https://pregnancy-tracker-frontend.vercel.app)** — Pregnancy Monitoring Platform
   - 🛠 **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
