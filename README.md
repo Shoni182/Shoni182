@@ -9,7 +9,6 @@
 ---
 
 <h2 align="left">
-  🧰
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D136&width=435&lines=Tech+stack+%E2%86%98" alt="Typing SVG"/> 
 </h2>
 <p align="center">
