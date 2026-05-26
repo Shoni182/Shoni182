@@ -45,17 +45,13 @@
 
 ---
 
-## 📫 How to reach me
+## 📫 Message me
+
+<p align="center">
+  <a href="https://t.me/Shoni_Pal">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoni%20Pal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoni-pal-191b337a/)
 &nbsp;|&nbsp;
-[Telegram](https://t.me/Shoni_pal)
-&nbsp;|&nbsp;
-[Email](mailto:shoni182@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Shoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shoni182&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoni182&layout=compact&hide_border=true)
